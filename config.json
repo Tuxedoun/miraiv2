@@ -7,11 +7,11 @@
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "leezav1@suiemail.com",
+    "PASSWORD": "Marrcus Gay",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "[ * ] |• AnYa",
+    "PREFIX": "*",
     "ADMINBOT": [
         "USERID1",
         "USERID2"
