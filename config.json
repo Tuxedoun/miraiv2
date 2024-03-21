@@ -7,13 +7,13 @@
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "leezav1@suiemail.com",
-    "PASSWORD": "Marrcus Gay",
+    "EMAIL": "",
+    "PASSWORD": " ",
     "OTPKEY": "",
-    "BOTNAME": "[ * ] |• AnYa",
-    "PREFIX": "*",
+    "BOTNAME": "Mirai",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100049522025179"
+        "61550037082227"
     ],
     "DATABASE": {
         "sqlite": {
